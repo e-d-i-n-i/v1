@@ -77,7 +77,3 @@ Here you'll find all the main pages of the site.
 ### [public](https://github.com/e-d-i-n-i/v1/blob/master/public)
 
 Here you'll find all the CSS, images, and font files.
-
-## License
-
-[MIT License]
