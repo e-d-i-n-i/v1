@@ -1,8 +1,4 @@
-# zenorocha.com
-
-> My personal website <3
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fzenorocha%2Fzenorocha.com)
+# My Portfolio Website Version 1
 
 ## Technology stack
 
@@ -18,7 +14,7 @@
 1. Clone this repo:
 
 ```sh
-$ git clone https://github.com/zenorocha/zenorocha.com.git
+$ git clone https://github.com/e-d-i-n-i/v1.git
 ```
 
 2. Then go to the project's folder:
@@ -58,30 +54,30 @@ The basic file structure for the project is organized in the following way:
 
 Here you'll find a list of markdown files for each post.
 
-### [components](https://github.com/zenorocha/zenorocha.com/tree/master/components)
+### [components](https://github.com/e-d-i-n-i/v1/tree/master/components)
 
 Here you'll find reusable blocks of React components.
 
-### [data](https://github.com/zenorocha/zenorocha.com/tree/master/data)
+### [data](https://github.com/e-d-i-n-i/v1/tree/master/data)
 
 Here you'll find JSON files that populates each section.
 
-### [layouts](https://github.com/zenorocha/zenorocha.com/tree/master/layouts)
+### [layouts](https://github.com/e-d-i-n-i/v1/tree/master/layouts)
 
 Here you'll find default templates for different pages.
 
-### [lib](https://github.com/zenorocha/zenorocha.com/tree/master/lib)
+### [lib](https://github.com/e-d-i-n-i/v1/tree/master/lib)
 
 Here you'll find a set of utilities.
 
-### [pages](https://github.com/zenorocha/zenorocha.com/tree/master/pages)
+### [pages](https://github.com/e-d-i-n-i/v1/tree/master/pages)
 
 Here you'll find all the main pages of the site.
 
-### [public](https://github.com/zenorocha/zenorocha.com/blob/master/public)
+### [public](https://github.com/e-d-i-n-i/v1/blob/master/public)
 
 Here you'll find all the CSS, images, and font files.
 
 ## License
 
-[MIT License](http://zenorocha.mit-license.org/) © Zeno Rocha
+[MIT License](http://e-d-i-n-i.mit-license.org/) © Edini Amare
