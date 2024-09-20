@@ -80,4 +80,4 @@ Here you'll find all the CSS, images, and font files.
 
 ## License
 
-[MIT License](http://e-d-i-n-i.mit-license.org/) © Edini Amare
+[MIT License](http://edini.mit-license.org/) © Edini Amare
