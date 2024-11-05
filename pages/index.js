@@ -46,9 +46,16 @@ export default function Index(props) {
               <h1>{title}</h1>
               <p>
                 <strong>
-                  Fullstack Developer{' '}
-                  <a href="https://linkedin.com" target="blank">
-                    Resend
+                  Freelancer at{' '}
+                  <a href="https://www.fiverr.com/ediniamare" target="blank">
+                    Fiverr
+                  </a>{' '}
+                  and{' '}
+                  <a
+                    href="https://www.upwork.com/freelancers/~01c2ba58c5005a3461?mp_source=share"
+                    target="blank"
+                  >
+                    Upwork
                   </a>
                 </strong>
                 <br />
