@@ -20,7 +20,7 @@ export default function Footer() {
     },
     {
       title: 'linkedin',
-      url: 'https://linkedin.com/in/edini-amare',
+      url: 'https://www.linkedin.com/in/edini-amare-60a495252',
       icon: 'ri-linkedin-line',
     },
     {
