@@ -8,6 +8,7 @@ import { useKBar } from 'kbar'
 export default function Navbar() {
   const router = useRouter()
   const pages = [
+    'Index',
     'About',
     'Blog',
     'Projects',
